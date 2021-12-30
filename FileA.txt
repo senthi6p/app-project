@@ -1,1 +1,1 @@
-This is fileA Version 2 Git version
+This is fileA Version 3 Git version
